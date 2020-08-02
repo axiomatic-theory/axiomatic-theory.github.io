@@ -1,1 +1,5 @@
-# axiomatic-theory.github.io
+## Axiomatic Theories - Appendix
+
+### [Vertical Analysis](Axiomatic-Theory-for-IS-Research.pdf)
+### [Vertical Analysis](https://github.com/axiomatic-theory/ISR/blob/master/Axiomatic-Theory-for-IS-Research.pdf)
+ 
