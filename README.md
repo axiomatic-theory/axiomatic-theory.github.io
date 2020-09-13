@@ -1,4 +1,6 @@
 ## Axiomatic Theories - Appendix
 
-### [Vertical Analysis](Axiomatic-Theory-for-IS-Research.html)
- 
+### [Horizontal Analysis](Axiomatic-Theory-for-IS-Research.html)
+### Vertical Analysis
+#### [Diffusion of Innovations Theory](DOI-theory.pdf)
+#### [Institutional Theory](Institutional-theory.pdf)
